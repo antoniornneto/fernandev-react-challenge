@@ -1,6 +1,4 @@
-# fernandev
-
-## React Interview Challenge #02
+# desafio do canal fernandev React Jr Interview Challenge
 
 Código da solução do desafio de React de tela de login.
 
